@@ -1,9 +1,10 @@
 ---
 title: Improved Guarantees for k-means++ and k-means++ Parallel
-authors: []
-author_notes:
-  - Equal contribution
-  - Equal contribution
+authors:
+  - Konstantin Makarychev
+  - admin
+  - Liren Shan
+author_notes: []
 publication_short: In *NeurIPS 2020*
 abstract: In this paper, we study k-means++ and k-means||, the two most popular
   algorithms for the classic k-means clustering problem. We provide novel
@@ -27,9 +28,9 @@ url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
 publication: In *Advances in Neural Information Processing Systems 33 (NeurIPS 2020)*
 featured: true
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 doi: https://proceedings.neurips.cc/paper/2020/hash/ba304f3809ed31d0ad97b5a2b5df2a39-Abstract.html
