@@ -28,7 +28,7 @@ url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
 publication: In *Advances in Neural Information Processing Systems 33 (NeurIPS 2020)*
 featured: true
-date: 2013-07-01T00:00:00.000Z
+date: 2020-12-14T01:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
