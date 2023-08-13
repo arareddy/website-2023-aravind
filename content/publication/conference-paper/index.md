@@ -4,7 +4,10 @@ authors:
   - Konstantin Makarychev
   - admin
   - Liren Shan
-author_notes: []
+author_notes:
+  - Alphabetical ordering
+  - Alphabetical ordering
+  - Alphabetical ordering
 publication_short: In *NeurIPS 2020*
 abstract: In this paper, we study k-means++ and k-means||, the two most popular
   algorithms for the classic k-means clustering problem. We provide novel
