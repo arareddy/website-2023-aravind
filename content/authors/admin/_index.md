@@ -14,7 +14,7 @@ social:
     link: /#contact
   - icon: file-pdf
     icon_pack: far
-    link: uploads/resume.pdf
+    link: uploads/cv.pdf
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=PvxNMHYAAAAJ
