@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Resume
-    url: uploads/resume.pdf
+    url: uploads/cv.pdf
     weight: 20
   - name: Contact
     url: '#contact'
