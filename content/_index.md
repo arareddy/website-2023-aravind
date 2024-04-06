@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: 
-date: 2023-08-13
+date: 2024-04-06
 type: landing
 
 sections:
@@ -15,14 +15,14 @@ sections:
     id: contact
     content:
       title: Contact
-      email: talla@broadinstitute.org
+      email: aravind.reddy@cs.northwestern.edu
       address:
-        street: 105 Broadway, Room 518
-        city: Cambridge
-        region: MA
-        postcode: '02142'
-        country: United States
-        country_code: US
+        street: Villa 25, Maithri Enclave, Kapra
+        city: Hyderabad
+        region: Telangana
+        postcode: '500087'
+        country: India
+        country_code: IN
       # Automatically link email and phone or display as text?
       autolink: true
     design:
