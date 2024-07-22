@@ -17,10 +17,10 @@ sections:
       title: Contact
       email: arareddy@ai.iith.ac.in
       address:
-        street: Villa 25, Maithri Enclave, Kapra
-        city: Hyderabad
-        region: Telangana
-        postcode: '500087'
+        street: Room 208/A, Academic Block C 
+        city: Indian Institute of Technology Hyderabad
+        region: Kandi, Sangareddy, Telangana
+        postcode: '502284'
         country: India
         country_code: IN
       # Automatically link email and phone or display as text?
