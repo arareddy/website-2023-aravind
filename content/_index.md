@@ -15,7 +15,7 @@ sections:
     id: contact
     content:
       title: Contact
-      email: aravind.reddy@cs.northwestern.edu
+      email: arareddy@ai.iith.ac.in
       address:
         street: Villa 25, Maithri Enclave, Kapra
         city: Hyderabad
