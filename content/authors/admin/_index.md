@@ -1,6 +1,6 @@
 ---
 title: Aravind Reddy
-role: Postdoctoral Associate
+role: Visiting Assistant Professor
 bio: My research interests include machine learning and computational biology.
 interests:
   - Clustering
@@ -19,8 +19,8 @@ social:
     icon_pack: fas
     link: https://scholar.google.com/citations?user=PvxNMHYAAAAJ
 organizations:
-  - name: Broad Institute of MIT and Harvard
-    url: https://www.broadinstitute.org
+  - name: IIT Hyderabad
+    url: https://www.iith.ac.in
 education:
   courses:
     - course: Ph.D. in Computer Science
@@ -40,7 +40,7 @@ highlight_name: true
 first_name: Aravind
 email: arareddy96@gmail.com
 ---
-Hello! I recently returned to India and am now applying for faculty positions in CS and/or AI departments at Indian universities. My academic journey includes a six-month postdoctoral stint at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/), where I dipped my toes in the vast and fascinating domain of Computational Biology. Prior to this, I completed my PhD in Computer Science in June 2023 at [Northwestern University](https://www.northwestern.edu/), located on the scenic shores of Lake Michigan. At Northwestern, I was a part of the nurturing [CS theory group](https://theory.cs.northwestern.edu/) and was very fortunate to have been advised by [Prof. Konstantin Makarychev](https://konstantin.makarychev.net/) and [Prof. Aravindan Vijayaraghavan](https://users.eecs.northwestern.edu/~aravindv/). Additionally, my PhD journey was enriched by collaborating with researchers at [Adobe Research](https://research.adobe.com) during summer internships in 2021 and 2022.
+Hello! I recently joined as a Visiting Assistant Professor at [IIT Hyderabad](https://iith.ac.in/) in the [Department of AI](https://ai.iith.ac.in). My academic journey includes a six-month postdoctoral stint at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/), where I dipped my toes in the vast and fascinating domain of Computational Biology. Prior to this, I completed my PhD in Computer Science in June 2023 at [Northwestern University](https://www.northwestern.edu/), located on the scenic shores of Lake Michigan. At Northwestern, I was a part of the nurturing [CS theory group](https://theory.cs.northwestern.edu/) and was very fortunate to have been advised by [Prof. Konstantin Makarychev](https://konstantin.makarychev.net/) and [Prof. Aravindan Vijayaraghavan](https://users.eecs.northwestern.edu/~aravindv/). Additionally, my PhD journey was enriched by collaborating with researchers at [Adobe Research](https://research.adobe.com) during summer internships in 2021 and 2022.
 
 A long time ago, in a galaxy far, far away, I was a spirited undergrad at [IIT Kanpur](https://iitk.ac.in/), where I spent four transformative years majoring in Computer Science and Engineering with a minor in Physics. This journey across continents and disciplines has prepared me for a career in academia, where I hope to contribute to the vibrant academic landscape in India.
 
