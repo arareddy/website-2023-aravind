@@ -17,7 +17,7 @@ sections:
       title: Contact
       email: arareddy@ai.iith.ac.in
       address:
-        street: Room 208/A, Academic Block C 
+        street: Room 208/I, Academic Block C 
         city: Indian Institute of Technology Hyderabad
         region: Kandi, Sangareddy, Telangana
         postcode: '502284'
