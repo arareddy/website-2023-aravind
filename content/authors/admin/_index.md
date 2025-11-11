@@ -38,7 +38,7 @@ status:
 last_name: Reddy
 highlight_name: true
 first_name: Aravind
-email: arareddy96@gmail.com
+email: aravind.reddy@alum.northwestern.edu
 ---
 Hello! I recently joined as a Research Scientist at [IIT Madras](https://iitm.ac.in/) in the [Centre for Responsible AI (CeRAI)](https://cerai.iitm.ac.in), [Wadhwani School of Data Science and AI (WSAI)](https://wsai.iitm.ac.in). Prior to this, I was a Visiting Assistant Professor at [IIT Hyderabad](https://iith.ac.in) in the [Department of Artificial Intelligence](https://ai.iith.ac.in). Before I moved back to India last year, I was a postdoc at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/), where I dipped my toes in the vast and fascinating world of Computational Biology. I graduated with my PhD in Computer Science from [Northwestern University](https://www.northwestern.edu/), located on the scenic shores of Lake Michigan. At Northwestern, I was a part of the nurturing [CS theory group](https://theory.cs.northwestern.edu/) and was very fortunate to have been advised by [Prof. Konstantin Makarychev](https://konstantin.makarychev.net/) and [Prof. Aravindan Vijayaraghavan](https://users.eecs.northwestern.edu/~aravindv/). Additionally, my PhD journey was enriched by collaborating with researchers at [Adobe Research](https://research.adobe.com).
 
