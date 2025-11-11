@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: 
-date: 2024-04-06
+date: 2025-11-11
 type: landing
 
 sections:
@@ -15,12 +15,12 @@ sections:
     id: contact
     content:
       title: Contact
-      email: arareddy@ai.iith.ac.in
+      email: aravind.reddy@alum.northwestern.edu
       address:
-        street: Room 208/I, Academic Block C 
-        city: Indian Institute of Technology Hyderabad
-        region: Kandi, Sangareddy, Telangana
-        postcode: '502284'
+        street: Room 670, New Academic Complex (NAC) 2 
+        city: Indian Institute of Technology Madras
+        region: Chennai, Tamil Nadu
+        postcode: '600036'
         country: India
         country_code: IN
       # Automatically link email and phone or display as text?
