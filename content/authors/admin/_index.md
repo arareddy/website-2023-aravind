@@ -1,7 +1,7 @@
 ---
 title: Aravind Reddy
-role: Research Scientist
-bio: My research interests include machine learning
+role: Principal Project Scientist
+bio: My research are broadly in machine learning
 interests:
   - Clustering
   - Graphical Models
