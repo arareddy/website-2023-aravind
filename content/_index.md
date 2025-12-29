@@ -15,7 +15,7 @@ sections:
     id: contact
     content:
       title: Contact
-      email: aravind.reddy@alum.northwestern.edu
+      email: aravind@cerai.in
       address:
         street: Room 670, New Academic Complex (NAC) 2 
         city: Indian Institute of Technology Madras
