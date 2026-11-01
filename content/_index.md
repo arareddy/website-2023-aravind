@@ -16,14 +16,15 @@ sections:
     content:
       title: News
       text: |-
-        - **Oct 2026:** [X-AVDD](/publication/x-avdd/), on audio-visual dataset distillation, was accepted at NeurIPS 2026 and is now on arXiv.
         - **Oct 2026:** New preprint on [machine unlearning for federated socially fair k-means](/publication/machine-unlearning-federated-kmeans/).
-        - **Sep 2026:** Google awarded CeRAI a US$100,000 research gift to support my work on scaling Pluralis to multilingual AI safety evaluation for agents.
+        - **Sep 2026:** [X-AVDD](/publication/x-avdd/), on audio-visual dataset distillation, was accepted at NeurIPS 2026.
+        - **Sep 2026:** Google awarded CeRAI a US$100,000 research gift to support my work on the multilingual and multicultural safety of agentic AI systems.
         - **Jul 2026:** Released [Pluralis v0.1](/publication/pluralis/), a multicultural, multimodal, multilingual benchmark for AI risk and reliability.
         - **May 2026:** Recognized as a Silver Reviewer for the ICML 2026 Position Paper Track.
-        - **Mar 2026:** [DiRe](/publication/dire/), on dataset condensation, appeared at WACV 2026.
-        - **Nov 2025:** Joined the Centre for Responsible AI at IIT Madras as a Principal Project Scientist.
+        - **Nov 2025:** [DiRe](/publication/dire/), on dataset condensation, was accepted at WACV 2026.
+        - **Nov 2025:** Joined the [Centre for Responsible AI](https://cerai.iitm.ac.in) at IIT Madras as a Principal Project Scientist.
         - **Apr 2025:** Granted [US Patent 12,288,237](/publication/nonsymmetric-dpp-patent/) on online inference for nonsymmetric DPPs.
+        - **Jul 2024:** Joined the [Department of AI](https://ai.iith.ac.in) at IIT Hyderabad as a Visiting Assistant Professor.
     design:
       columns: '2'
   - block: markdown
