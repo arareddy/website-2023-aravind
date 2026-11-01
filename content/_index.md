@@ -23,7 +23,7 @@ sections:
         - **May 2026:** Recognized as a Silver Reviewer for the ICML 2026 Position Paper Track.
         - **Nov 2025:** [DiRe](/publication/dire/), on dataset condensation, was accepted at WACV 2026.
         - **Nov 2025:** Joined the [Centre for Responsible AI](https://cerai.iitm.ac.in) at IIT Madras as a Principal Project Scientist.
-        - **Apr 2025:** Granted [US Patent 12,288,237](/publication/nonsymmetric-dpp-patent/) on online inference for nonsymmetric DPPs.
+        - **Apr 2025:** Granted a [US patent](/publication/nonsymmetric-dpp-patent/) on online inference for nonsymmetric DPPs.
         - **Jul 2024:** Joined the [Department of AI](https://ai.iith.ac.in) at IIT Hyderabad as a Visiting Assistant Professor.
     design:
       columns: '2'
