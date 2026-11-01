@@ -12,6 +12,20 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: markdown
+    id: news
+    content:
+      title: News
+      text: |-
+        - **Oct 2026:** Our US$100,000 Google Research Gift project on multilingual AI safety evaluation for agents began. I lead the effort at CeRAI.
+        - **Oct 2026:** [X-AVDD](/publication/x-avdd/), on audio-visual dataset distillation, was accepted at NeurIPS 2026 and is now on arXiv.
+        - **Oct 2026:** New preprint on [machine unlearning for federated socially fair k-means](/publication/machine-unlearning-federated-kmeans/).
+        - **Jul 2026:** Released [Pluralis v0.1](/publication/pluralis/), a multicultural, multimodal, multilingual benchmark for AI risk and reliability.
+        - **Mar 2026:** [DiRe](/publication/dire/), on dataset condensation, appeared at WACV 2026.
+        - **Nov 2025:** Joined the Centre for Responsible AI at IIT Madras as a Principal Project Scientist.
+        - **Apr 2025:** Granted [US Patent 12,288,237](/publication/nonsymmetric-dpp-patent/) on online inference for nonsymmetric DPPs.
+    design:
+      columns: '2'
+  - block: markdown
     id: research
     content:
       title: Research
@@ -56,7 +70,7 @@ sections:
     content:
       title: Publications
       text: |-
-        Eight peer-reviewed conference papers: four at CORE A\* venues and two at CORE A venues, under the [ICORE2026 Conference Ranking](https://portal.core.edu.au/conf-ranks/). Seven are published and one is accepted at NeurIPS 2026. Three of the eight are from the last three years (one CORE A\*, one CORE A, one CORE B).
+        Eight peer-reviewed conference papers: four at CORE A\* venues and two at CORE A venues, under the [ICORE2026 Conference Ranking](https://portal.core.edu.au/conf-ranks/). Seven are published and one is accepted at NeurIPS 2026. [DiRe](/publication/dire/) and [X-AVDD](/publication/x-avdd/) are post-Ph.D. work.
       count: 0
       filters:
         folders:

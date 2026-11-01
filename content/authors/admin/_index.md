@@ -20,6 +20,12 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=PvxNMHYAAAAJ
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0001-7406-4507
+  - icon: dblp
+    icon_pack: ai
+    link: https://dblp.org/pid/88/5023.html
   - icon: github
     icon_pack: fab
     link: https://github.com/arareddy
