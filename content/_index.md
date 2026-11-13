@@ -17,12 +17,12 @@ sections:
       title: News
       text: |-
         - **Nov 2026:** New preprint, [Beyond the First Hit: Towards Tight Guarantees for k-means++](/publication/beyond-the-first-hit/).
-        - **Oct 2026:** New preprint on [machine unlearning for federated socially fair k-means](/publication/machine-unlearning-federated-kmeans/).
-        - **Sep 2026:** [X-AVDD](/publication/x-avdd/), on audio-visual dataset distillation, was accepted at NeurIPS 2026.
+        - **Oct 2026:** New preprint, [Machine Unlearning for Federated Socially Fair k-Means Clustering](/publication/machine-unlearning-federated-kmeans/).
+        - **Sep 2026:** [X-AVDD: Cross-Attentive Audio-Visual Dataset Distillation](/publication/x-avdd/) was accepted at NeurIPS 2026.
         - **Sep 2026:** Google awarded CeRAI a US$100,000 research gift to support my work on the multilingual and multicultural safety of agentic AI systems.
-        - **Jul 2026:** Released [Pluralis v0.1](/publication/pluralis/), a multicultural, multimodal, multilingual benchmark for AI risk and reliability.
+        - **Jul 2026:** Released [Pluralis v0.1: Towards a Multicultural, Multimodal, Multilingual Benchmark for AI Risk and Reliability](/publication/pluralis/).
         - **May 2026:** Recognized as a Silver Reviewer for the ICML 2026 Position Paper Track.
-        - **Nov 2025:** [DiRe](/publication/dire/), on dataset condensation, was accepted at WACV 2026.
+        - **Nov 2025:** [DiRe: Diversity-promoting Regularization for Dataset Condensation](/publication/dire/) was accepted at WACV 2026.
         - **Nov 2025:** Joined the [Centre for Responsible AI](https://cerai.iitm.ac.in) at IIT Madras as a Principal Project Scientist.
         - **Apr 2025:** Granted a [US patent](/publication/nonsymmetric-dpp-patent/) on online inference for nonsymmetric DPPs.
         - **Jul 2024:** Joined the [Department of AI](https://ai.iith.ac.in) at IIT Hyderabad as a Visiting Assistant Professor.
@@ -39,25 +39,25 @@ sections:
 
         I design algorithms with provable guarantees, often going beyond worst-case analysis to explain why algorithms work on real data even when their worst-case bounds are pessimistic. My three best papers are from this line of work:
 
-        - [One-pass MAP inference for nonsymmetric DPPs](/publication/one-pass-nonsymmetric-dpp/) (ICML 2022), which started the study of streaming and online MAP inference for these models. I am the sole first and corresponding author, and the work led to a granted US patent.
-        - [LP recovery guarantees for MAP inference](/publication/beyond-perturbation-stability/) (AISTATS 2021), which gives a new explanation of why a standard LP relaxation succeeds on real vision instances. I am co-first author.
-        - [Improved guarantees for k-means++ and its parallel variant](/publication/kmeans-plus-plus/) (NeurIPS 2020), which improves the k-means++ bound from 8(ln k + 2) to 5(ln k + 2) for an algorithm that is the default in widely used libraries.
+        - [One-Pass Algorithms for MAP Inference of Nonsymmetric Determinantal Point Processes](/publication/one-pass-nonsymmetric-dpp/) (ICML 2022), which started the study of streaming and online MAP inference for these models. I am the sole first and corresponding author, and the work led to a granted US patent.
+        - [Beyond Perturbation Stability: LP Recovery Guarantees for MAP Inference on Noisy Stable Instances](/publication/beyond-perturbation-stability/) (AISTATS 2021), which gives a new explanation of why a standard LP relaxation succeeds on real vision instances. I am co-first author.
+        - [Improved Guarantees for k-means++ and k-means++ Parallel](/publication/kmeans-plus-plus/) (NeurIPS 2020), which improves the k-means++ bound from 8(ln k + 2) to 5(ln k + 2) for an algorithm that is the default in widely used libraries.
 
-        In recent sole-author work, [Beyond the First Hit](/publication/beyond-the-first-hit/), I lower the leading coefficient of ln k in the k-means++ guarantee from 5 to 2.108, and determine the exact ratio for two and three clusters.
+        In recent work, [Beyond the First Hit: Towards Tight Guarantees for k-means++](/publication/beyond-the-first-hit/), we lower the leading coefficient of ln k in the k-means++ guarantee from 5 to 2.108, and determine the exact ratio for two and three clusters.
 
-        I have also worked on dynamic and adaptive algorithms for [tensor product regression](/publication/dynamic-tensor-product-regression/) (NeurIPS 2022), [pairwise summation](/publication/adaptive-dynamic-hashing/) (IEEE BigData 2022) and [Mahalanobis distance estimation](/publication/online-adaptive-mahalanobis/) (IEEE BigData 2023).
+        I have also worked on dynamic and adaptive algorithms in [Dynamic Tensor Product Regression](/publication/dynamic-tensor-product-regression/) (NeurIPS 2022), [Adaptive and Dynamic Multi-Resolution Hashing for Pairwise Summations](/publication/adaptive-dynamic-hashing/) (IEEE BigData 2022) and [Online Adaptive Mahalanobis Distance Estimation](/publication/online-adaptive-mahalanobis/) (IEEE BigData 2023).
 
         ### Responsible AI
 
         I use these tools to ask when an AI system can be trusted: whether it is fair, whether it can forget data on request, and whether it is safe in the cultural contexts where it is used.
 
-        - With Dr. Sunayana Sitaram, I am India lead of [Pluralis](/publication/pluralis/), a culture-first multimodal safety benchmark that is part of the MLCommons AILuminate effort, with 6,448 image-text prompts across six Asia-Pacific locales and eight languages. CeRAI led benchmark design, curation and validation for English, Hindi and Tamil.
+        - With Dr. Sunayana Sitaram, I am India lead of [Pluralis v0.1: Towards a Multicultural, Multimodal, Multilingual Benchmark for AI Risk and Reliability](/publication/pluralis/), a culture-first safety benchmark that is part of the MLCommons AILuminate effort, with 6,448 image-text prompts across six Asia-Pacific locales and eight languages. CeRAI led benchmark design, curation and validation for English, Hindi and Tamil.
         - Under a Google Research Gift, I lead CeRAI's effort on multilingual, multicultural evaluation of AI agents.
-        - With Prof. Saurav Prakash, I work on [fair, deletable clustering](/publication/machine-unlearning-federated-kmeans/). We prove an O(log² k) guarantee for federated socially fair k-means that does not depend on how groups are split across institutions, using our NeurIPS 2020 bound as a black box, and we show that replay reproduces retraining exactly.
+        - With Prof. Saurav Prakash, I work on fair, deletable clustering. In [Machine Unlearning for Federated Socially Fair k-Means Clustering](/publication/machine-unlearning-federated-kmeans/), we prove an O(log² k) guarantee for federated socially fair k-means that does not depend on how groups are split across institutions, using our NeurIPS 2020 bound as a black box, and we show that replay reproduces retraining exactly.
 
         ### Computer Vision
 
-        Training vision models for genomics at the Broad Institute took months of compute, which led me to dataset distillation: synthesizing a small dataset with nearly the training value of a large one. With Dr. Konda Reddy Mopuri and Saumyaranjan Mohanty, I developed [DiRe](/publication/dire/) (WACV 2026), a diversity regularizer that draws on my work on diverse subsets and improves eight leading methods from CIFAR-10 to ImageNet-1K, and [X-AVDD](/publication/x-avdd/) (NeurIPS 2026), which brings distillation to audio-visual data, cutting synthesis time from 10 to 1.3 GPU-hours and roughly tripling accuracy on VGGSound.
+        Training vision models for genomics at the Broad Institute took months of compute, which led me to dataset distillation: synthesizing a small dataset with nearly the training value of a large one. With Dr. Konda Reddy Mopuri and Saumyaranjan Mohanty, I developed [DiRe: Diversity-promoting Regularization for Dataset Condensation](/publication/dire/) (WACV 2026), a diversity regularizer that draws on my work on diverse subsets and improves eight leading methods from CIFAR-10 to ImageNet-1K. We followed it with [X-AVDD: Cross-Attentive Audio-Visual Dataset Distillation](/publication/x-avdd/) (NeurIPS 2026), which brings distillation to audio-visual data, cutting synthesis time from 10 to 1.3 GPU-hours and roughly tripling accuracy on VGGSound.
 
         ### Research plan
 
