@@ -16,7 +16,7 @@ sections:
     content:
       title: News
       text: |-
-        - **Nov 2026:** New sole-author preprint, [Beyond the First Hit](/publication/beyond-the-first-hit/), which lowers the leading coefficient in the k-means++ guarantee from 5 to 2.108.
+        - **Nov 2026:** New preprint, [Beyond the First Hit: Towards Tight Guarantees for k-means++](/publication/beyond-the-first-hit/).
         - **Oct 2026:** New preprint on [machine unlearning for federated socially fair k-means](/publication/machine-unlearning-federated-kmeans/).
         - **Sep 2026:** [X-AVDD](/publication/x-avdd/), on audio-visual dataset distillation, was accepted at NeurIPS 2026.
         - **Sep 2026:** Google awarded CeRAI a US$100,000 research gift to support my work on the multilingual and multicultural safety of agentic AI systems.
