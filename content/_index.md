@@ -16,6 +16,7 @@ sections:
     content:
       title: News
       text: |-
+        - **Nov 2026:** New sole-author preprint, [Beyond the First Hit](/publication/beyond-the-first-hit/), which lowers the leading coefficient in the k-means++ guarantee from 5 to 2.108.
         - **Oct 2026:** New preprint on [machine unlearning for federated socially fair k-means](/publication/machine-unlearning-federated-kmeans/).
         - **Sep 2026:** [X-AVDD](/publication/x-avdd/), on audio-visual dataset distillation, was accepted at NeurIPS 2026.
         - **Sep 2026:** Google awarded CeRAI a US$100,000 research gift to support my work on the multilingual and multicultural safety of agentic AI systems.
@@ -41,6 +42,8 @@ sections:
         - [One-pass MAP inference for nonsymmetric DPPs](/publication/one-pass-nonsymmetric-dpp/) (ICML 2022), which started the study of streaming and online MAP inference for these models. I am the sole first and corresponding author, and the work led to a granted US patent.
         - [LP recovery guarantees for MAP inference](/publication/beyond-perturbation-stability/) (AISTATS 2021), which gives a new explanation of why a standard LP relaxation succeeds on real vision instances. I am co-first author.
         - [Improved guarantees for k-means++ and its parallel variant](/publication/kmeans-plus-plus/) (NeurIPS 2020), which improves the k-means++ bound from 8(ln k + 2) to 5(ln k + 2) for an algorithm that is the default in widely used libraries.
+
+        In recent sole-author work, [Beyond the First Hit](/publication/beyond-the-first-hit/), I lower the leading coefficient of ln k in the k-means++ guarantee from 5 to 2.108, and determine the exact ratio for two and three clusters.
 
         I have also worked on dynamic and adaptive algorithms for [tensor product regression](/publication/dynamic-tensor-product-regression/) (NeurIPS 2022), [pairwise summation](/publication/adaptive-dynamic-hashing/) (IEEE BigData 2022) and [Mahalanobis distance estimation](/publication/online-adaptive-mahalanobis/) (IEEE BigData 2023).
 
