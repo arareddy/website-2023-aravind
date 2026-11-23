@@ -1,5 +1,5 @@
 ---
-title: "Beyond the First Hit: Towards Tight Guarantees for k-means++"
+title: "The Approximation Ratio of k-means++ Is 2 ln k + O(1)"
 authors:
   - admin
 date: 2026-11-09T00:00:00.000Z
@@ -13,6 +13,6 @@ links:
     url: https://arxiv.org/abs/2611.14573
 ---
 
-k-means++ is the standard way to start k-means clustering. Its worst-case approximation ratio was known to be at most 8(ln k + 2), improved to 5(ln k + 2) in our [NeurIPS 2020 paper](/publication/kmeans-plus-plus/). We lower the leading coefficient of ln k from 5 to 2.108 with a computer-assisted proof, and give a short analytic proof with coefficient 2.3139. We also determine the exact ratio for two and three clusters, and prove new lower bounds.
+k-means++ is the standard way to start k-means clustering. Its worst-case approximation ratio was known to be at least 2 ln k and at most 8(ln k + 2), and our [NeurIPS 2020 paper](/publication/kmeans-plus-plus/) improved the upper bound to 5(ln k + 2). We prove that the ratio is 2 ln k + O(1): for every k ≥ 2 it lies between 2H<sub>k−1</sub> + 2 and 2H<sub>k−2</sub> + 5, where H<sub>j</sub> is the j-th harmonic number, so the two bounds differ by less than 3. We also determine the exact ratio for two and three clusters, and give a second family of lower bounds that is stronger for small k.
 
-Our key idea is to follow how a cluster's cost changes after it is first sampled. Earlier analyses charged that cost for the rest of the run, but a cluster left with a large cost is likely to be sampled again soon, which repairs it.
+Our key idea is to follow how a cluster's cost changes after it is first sampled. At each later draw, the chance of sampling the cluster again is exactly its share of the current cost, and we show that the cost reductions from these later hits bring the leading coefficient down to 2.

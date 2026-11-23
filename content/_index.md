@@ -16,7 +16,7 @@ sections:
     content:
       title: News
       text: |-
-        - **Nov 2026:** New preprint, [Beyond the First Hit: Towards Tight Guarantees for k-means++](/publication/beyond-the-first-hit/).
+        - **Nov 2026:** New preprint, [The Approximation Ratio of k-means++ Is 2 ln k + O(1)](/publication/beyond-the-first-hit/).
         - **Oct 2026:** New preprint, [Machine Unlearning for Federated Socially Fair k-Means Clustering](/publication/machine-unlearning-federated-kmeans/).
         - **Sep 2026:** [X-AVDD: Cross-Attentive Audio-Visual Dataset Distillation](/publication/x-avdd/) was accepted at NeurIPS 2026.
         - **Sep 2026:** Google awarded CeRAI a US$100,000 research gift to support my work on the multilingual and multicultural safety of agentic AI systems.
@@ -43,7 +43,7 @@ sections:
         - [Beyond Perturbation Stability: LP Recovery Guarantees for MAP Inference on Noisy Stable Instances](/publication/beyond-perturbation-stability/) (AISTATS 2021), which gives a new explanation of why a standard LP relaxation succeeds on real vision instances. I am co-first author.
         - [Improved Guarantees for k-means++ and k-means++ Parallel](/publication/kmeans-plus-plus/) (NeurIPS 2020), which improves the k-means++ bound from 8(ln k + 2) to 5(ln k + 2) for an algorithm that is the default in widely used libraries.
 
-        In recent work, [Beyond the First Hit: Towards Tight Guarantees for k-means++](/publication/beyond-the-first-hit/), we lower the leading coefficient of ln k in the k-means++ guarantee from 5 to 2.108, and determine the exact ratio for two and three clusters.
+        In recent work, [The Approximation Ratio of k-means++ Is 2 ln k + O(1)](/publication/beyond-the-first-hit/), we show that the worst-case approximation ratio of k-means++ is 2 ln k + O(1), which settles its leading coefficient at 2, and we determine the exact ratio for two and three clusters.
 
         I have also worked on dynamic and adaptive algorithms in [Dynamic Tensor Product Regression](/publication/dynamic-tensor-product-regression/) (NeurIPS 2022), [Adaptive and Dynamic Multi-Resolution Hashing for Pairwise Summations](/publication/adaptive-dynamic-hashing/) (IEEE BigData 2022) and [Online Adaptive Mahalanobis Distance Estimation](/publication/online-adaptive-mahalanobis/) (IEEE BigData 2023).
 
